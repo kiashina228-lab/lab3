@@ -6,9 +6,6 @@ class Program
     static void Main()
     {
 
-        int[] a = new int[2];
-        int[] a2 = a;
-        
         bool finish = false;
 
         while (!finish)
